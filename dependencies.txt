@@ -1,0 +1,1 @@
+npm i @tensorflow-models/face-landmarks-derection react-webcam

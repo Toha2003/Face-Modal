@@ -1,13 +1,9 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+div .data-paragrif{
+  /* letter-spacing: 6px; */
+   text-shadow: 10px 8px 4px black;
+   font-weight: 500;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+div .data-paragrif:hover{
+  transition: 0.2s;
+  text-shadow: 10px 8px 4px red;
 }
